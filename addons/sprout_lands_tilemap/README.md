@@ -30,26 +30,26 @@ Start building worlds with the free [Sprout Lands Asset Pack](https://cupnooble.
 The example scene can be opened and worked in directly. If you'd rather start from scratch, here are the instructions.
 
 1. Start a new scene with a Node2D.  
-![Clicking on 2D Scene](media/Usage_Screenshot_1.png)
+![Clicking on 2D Scene](addons/sprout_lands_tilemap/media/Usage_Screenshot_1.png)
 2. Instantiate a custom scene as a node.  
-![Instatiate a Custom Scene](media/Usage_Screenshot_2.png)
+![Instatiate a Custom Scene](addons/sprout_lands_tilemap/media/Usage_Screenshot_2.png)
 3. Locate `SproutLandsTileMap.tscn` and open it. 
-![Open Custom Scene](media/Usage_Screenshot_4.png)
+![Open Custom Scene](addons/sprout_lands_tilemap/media/Usage_Screenshot_4.png)
 4. Confirm the new node is added and selected in the scene tree.
-![Confirm new node](media/Usage_Screenshot_5.png)
+![Confirm new node](addons/sprout_lands_tilemap/media/Usage_Screenshot_5.png)
 5. Open the TileMap editor, (if it is not open already).  
-![Selecting TileMap Editor](media/Usage_Screenshot_6.png)
+![Selecting TileMap Editor](addons/sprout_lands_tilemap/media/Usage_Screenshot_6.png)
 6. Select to draw terrains.  
-![Selecting to draw terrains](media/Usage_Screenshot_7.png)
+![Selecting to draw terrains](addons/sprout_lands_tilemap/media/Usage_Screenshot_7.png)
 7. Select a terrain to draw (ex. Grass)  
-![Selecting Grass Terrain](media/Usage_Screenshot_8.png)
+![Selecting Grass Terrain](addons/sprout_lands_tilemap/media/Usage_Screenshot_8.png)
 8. Draw the terrain (ex. Grass) in the scene view.  
-![Drawing Grass](media/Usage_Screenshot_9.png)
+![Drawing Grass](addons/sprout_lands_tilemap/media/Usage_Screenshot_9.png)
 
 ### Intermediate Usage
 
 You may noticed that only one kind of tile can occupy any given space, while some tiles have transparency and should be placed over others. For this, there are layers that can be changed in the TileMap editor.  
-![Changing TileMap Layers](media/Usage_Screenshot_10.png)  
+![Changing TileMap Layers](addons/sprout_lands_tilemap/media/Usage_Screenshot_10.png)  
 The names are merely for convenience and do not enforce any rules themselves.
 
 ## Links
