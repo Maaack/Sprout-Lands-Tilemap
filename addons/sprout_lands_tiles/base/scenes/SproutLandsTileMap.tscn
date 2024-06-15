@@ -2363,7 +2363,7 @@ sources/7 = SubResource("TileSetAtlasSource_ec0i7")
 sources/8 = SubResource("TileSetAtlasSource_jobb0")
 sources/6 = SubResource("TileSetAtlasSource_c72dr")
 
-[node name="TileMap" type="TileMap"]
+[node name="SproutLandsTileMap" type="TileMap"]
 texture_filter = 1
 tile_set = SubResource("TileSet_ckcx6")
 format = 2
