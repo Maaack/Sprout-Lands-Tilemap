@@ -1,9 +1,8 @@
 # Sprout Lands Tilemap
-For Godot 4.2
+For Godot 4.2. Made in collaboration with [Cup Nooble](https://cupnooble.itch.io/).
 
-Made in collaboration with [Cup Nooble](https://cupnooble.itch.io/).
-
-[Example on itch.io](https://maaack.itch.io/harvest-hill-gwj-62-edition)
+[Example on itch.io](https://maaack.itch.io/harvest-hill-gwj-62-edition)  
+![Example Screenshot](/addons/sprout_lands_tilemap/media/Example_Screenshot_1.png)  
 
 ## Use Case
 Start building worlds with the free [Sprout Lands Asset Pack](https://cupnooble.itch.io/sprout-lands-asset-pack) right away.
