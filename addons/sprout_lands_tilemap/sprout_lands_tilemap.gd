@@ -1,7 +1,7 @@
 @tool
 extends EditorPlugin
 
-const PLUGIN_NAME = "Sprout Lands Tilemap"
+const PLUGIN_NAME = "Sprout Lands TileMap"
 const PROJECT_SETTINGS_PATH = "sprout_land_tiles/"
 
 const EXAMPLES_RELATIVE_PATH = "examples/"
