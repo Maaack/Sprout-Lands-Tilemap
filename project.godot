@@ -21,3 +21,8 @@ enabled=PackedStringArray("res://addons/sprout_lands_tiles/plugin.cfg")
 
 renderer/rendering_method="gl_compatibility"
 renderer/rendering_method.mobile="gl_compatibility"
+
+[sprout_land_tiles]
+
+disable_plugin_dialogues=true
+copy_path="res://"
