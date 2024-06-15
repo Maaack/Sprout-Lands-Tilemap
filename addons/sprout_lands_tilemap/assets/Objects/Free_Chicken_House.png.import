@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bngfh7nslvij1"
-path="res://.godot/imported/Grass.png-971d4765fa5d9a735b9b52b8ac0a43e1.ctex"
+uid="uid://u6j17ar14roc"
+path="res://.godot/imported/Free_Chicken_House.png-9fdf508140ccb896e3546f926081d3bc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/sprout_lands_tiles/assets/Tilesets/Grass.png"
-dest_files=["res://.godot/imported/Grass.png-971d4765fa5d9a735b9b52b8ac0a43e1.ctex"]
+source_file="res://addons/sprout_lands_tilemap/assets/Objects/Free_Chicken_House.png"
+dest_files=["res://.godot/imported/Free_Chicken_House.png-9fdf508140ccb896e3546f926081d3bc.ctex"]
 
 [params]
 

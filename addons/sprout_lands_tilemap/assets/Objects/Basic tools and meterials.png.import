@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b8o37isqmwiws"
-path="res://.godot/imported/Basic tools and meterials.png-ea323fa16572737dbae2990fc179fb98.ctex"
+path="res://.godot/imported/Basic tools and meterials.png-6515e0c1abe9d0f36c946a96d170fe49.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/sprout_lands_tiles/assets/Objects/Basic tools and meterials.png"
-dest_files=["res://.godot/imported/Basic tools and meterials.png-ea323fa16572737dbae2990fc179fb98.ctex"]
+source_file="res://addons/sprout_lands_tilemap/assets/Objects/Basic tools and meterials.png"
+dest_files=["res://.godot/imported/Basic tools and meterials.png-6515e0c1abe9d0f36c946a96d170fe49.ctex"]
 
 [params]
 

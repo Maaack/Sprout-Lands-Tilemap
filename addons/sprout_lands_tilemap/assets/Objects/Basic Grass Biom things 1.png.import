@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bjtkevhya3qsd"
-path="res://.godot/imported/icon.png-8cfecf6ebc29be41c3ed7116da2d9bbd.ctex"
+uid="uid://cn7oug0kk5tkd"
+path="res://.godot/imported/Basic Grass Biom things 1.png-7226e7131ed87e0d7cf06d3a59e8b753.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/sprout_lands_tiles/icon.png"
-dest_files=["res://.godot/imported/icon.png-8cfecf6ebc29be41c3ed7116da2d9bbd.ctex"]
+source_file="res://addons/sprout_lands_tilemap/assets/Objects/Basic Grass Biom things 1.png"
+dest_files=["res://.godot/imported/Basic Grass Biom things 1.png-7226e7131ed87e0d7cf06d3a59e8b753.ctex"]
 
 [params]
 
@@ -25,10 +25,10 @@ mipmaps/generate=false
 mipmaps/limit=-1
 roughness/mode=0
 roughness/src_normal=""
-process/fix_alpha_border=true
+process/fix_alpha_border=false
 process/premult_alpha=false
 process/normal_map_invert_y=false
 process/hdr_as_srgb=false
 process/hdr_clamp_exposure=false
 process/size_limit=0
-detect_3d/compress_to=1
+detect_3d/compress_to=0

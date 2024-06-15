@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://m0j0oacx0vki"
-path="res://.godot/imported/Basic Plants.png-18c6fd29655ee1240e313cb4fb6c02db.ctex"
+uid="uid://bkmnb6mm8tpyu"
+path="res://.godot/imported/Wooden House.png-087d02cd3fbbfa998061af6583a8094a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/sprout_lands_tiles/assets/Objects/Basic Plants.png"
-dest_files=["res://.godot/imported/Basic Plants.png-18c6fd29655ee1240e313cb4fb6c02db.ctex"]
+source_file="res://addons/sprout_lands_tilemap/assets/Tilesets/Wooden House.png"
+dest_files=["res://.godot/imported/Wooden House.png-087d02cd3fbbfa998061af6583a8094a.ctex"]
 
 [params]
 

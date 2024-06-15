@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://u6j17ar14roc"
-path="res://.godot/imported/Free_Chicken_House.png-479afc6485b6a933e5848da1bed98021.ctex"
+uid="uid://bhjytby2ycvpn"
+path="res://.godot/imported/Chest.png-2f31bb26b650bc6d11e8b5f4f339983b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/sprout_lands_tiles/assets/Objects/Free_Chicken_House.png"
-dest_files=["res://.godot/imported/Free_Chicken_House.png-479afc6485b6a933e5848da1bed98021.ctex"]
+source_file="res://addons/sprout_lands_tilemap/assets/Objects/Chest.png"
+dest_files=["res://.godot/imported/Chest.png-2f31bb26b650bc6d11e8b5f4f339983b.ctex"]
 
 [params]
 

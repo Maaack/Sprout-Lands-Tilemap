@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://droul8ku4n0e8"
-path="res://.godot/imported/Egg item.png-ef038945291afac2189aedfdf6d6d45b.ctex"
+uid="uid://wv1f6vqgbdgy"
+path="res://.godot/imported/Wood Bridge.png-bc921a43893eaceae0734dab7439fbc6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/sprout_lands_tiles/assets/Objects/Egg item.png"
-dest_files=["res://.godot/imported/Egg item.png-ef038945291afac2189aedfdf6d6d45b.ctex"]
+source_file="res://addons/sprout_lands_tilemap/assets/Objects/Wood Bridge.png"
+dest_files=["res://.godot/imported/Wood Bridge.png-bc921a43893eaceae0734dab7439fbc6.ctex"]
 
 [params]
 

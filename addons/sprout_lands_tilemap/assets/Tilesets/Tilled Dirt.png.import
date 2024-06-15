@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cvemyer4jq6we"
-path="res://.godot/imported/Paths.png-84fbb2d6b9fcd3c467465289caf08401.ctex"
+uid="uid://d1c7tdeg77os"
+path="res://.godot/imported/Tilled Dirt.png-cda4da5891632798f5eeef9f6d82adfd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/sprout_lands_tiles/assets/Objects/Paths.png"
-dest_files=["res://.godot/imported/Paths.png-84fbb2d6b9fcd3c467465289caf08401.ctex"]
+source_file="res://addons/sprout_lands_tilemap/assets/Tilesets/Tilled Dirt.png"
+dest_files=["res://.godot/imported/Tilled Dirt.png-cda4da5891632798f5eeef9f6d82adfd.ctex"]
 
 [params]
 

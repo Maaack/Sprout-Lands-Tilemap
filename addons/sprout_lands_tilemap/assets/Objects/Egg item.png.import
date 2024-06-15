@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cn7oug0kk5tkd"
-path="res://.godot/imported/Basic Grass Biom things 1.png-4232e9e5636f5b22a62b8fbf01adfa0a.ctex"
+uid="uid://droul8ku4n0e8"
+path="res://.godot/imported/Egg item.png-5e7445936adf637d254ff825ddb01e57.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/sprout_lands_tiles/assets/Objects/Basic Grass Biom things 1.png"
-dest_files=["res://.godot/imported/Basic Grass Biom things 1.png-4232e9e5636f5b22a62b8fbf01adfa0a.ctex"]
+source_file="res://addons/sprout_lands_tilemap/assets/Objects/Egg item.png"
+dest_files=["res://.godot/imported/Egg item.png-5e7445936adf637d254ff825ddb01e57.ctex"]
 
 [params]
 

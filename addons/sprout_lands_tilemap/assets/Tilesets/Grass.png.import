@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b3846xma3tu8x"
-path="res://.godot/imported/Basic Furniture.png-216730a491d554f177ed4cc3ff1ea18f.ctex"
+uid="uid://bngfh7nslvij1"
+path="res://.godot/imported/Grass.png-d716d8e072bc0866700719df692c3a51.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/sprout_lands_tiles/assets/Objects/Basic Furniture.png"
-dest_files=["res://.godot/imported/Basic Furniture.png-216730a491d554f177ed4cc3ff1ea18f.ctex"]
+source_file="res://addons/sprout_lands_tilemap/assets/Tilesets/Grass.png"
+dest_files=["res://.godot/imported/Grass.png-d716d8e072bc0866700719df692c3a51.ctex"]
 
 [params]
 

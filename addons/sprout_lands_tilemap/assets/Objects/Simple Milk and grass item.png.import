@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b0xa5ivsbc470"
-path="res://.godot/imported/Hills.png-c563c2dbdb8493e80bc8ed046be830b0.ctex"
+uid="uid://dmwitnt28vkpf"
+path="res://.godot/imported/Simple Milk and grass item.png-ea8828b3b3a3578ed123b310d8de5d78.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/sprout_lands_tiles/assets/Tilesets/Hills.png"
-dest_files=["res://.godot/imported/Hills.png-c563c2dbdb8493e80bc8ed046be830b0.ctex"]
+source_file="res://addons/sprout_lands_tilemap/assets/Objects/Simple Milk and grass item.png"
+dest_files=["res://.godot/imported/Simple Milk and grass item.png-ea8828b3b3a3578ed123b310d8de5d78.ctex"]
 
 [params]
 

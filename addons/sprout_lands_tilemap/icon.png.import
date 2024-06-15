@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bif0n5c12bwrh"
-path="res://.godot/imported/Water.png-bf596966eea2be2c358457fedce2343b.ctex"
+uid="uid://bjtkevhya3qsd"
+path="res://.godot/imported/icon.png-7534bc49ccd8e5814ac2de1576365b83.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/sprout_lands_tiles/assets/Tilesets/Water.png"
-dest_files=["res://.godot/imported/Water.png-bf596966eea2be2c358457fedce2343b.ctex"]
+source_file="res://addons/sprout_lands_tilemap/icon.png"
+dest_files=["res://.godot/imported/icon.png-7534bc49ccd8e5814ac2de1576365b83.ctex"]
 
 [params]
 
@@ -25,10 +25,10 @@ mipmaps/generate=false
 mipmaps/limit=-1
 roughness/mode=0
 roughness/src_normal=""
-process/fix_alpha_border=false
+process/fix_alpha_border=true
 process/premult_alpha=false
 process/normal_map_invert_y=false
 process/hdr_as_srgb=false
 process/hdr_clamp_exposure=false
 process/size_limit=0
-detect_3d/compress_to=0
+detect_3d/compress_to=1

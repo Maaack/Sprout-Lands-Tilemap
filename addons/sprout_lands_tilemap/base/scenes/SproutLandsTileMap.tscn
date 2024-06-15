@@ -1,14 +1,14 @@
 [gd_scene load_steps=20 format=3 uid="uid://csv8m50kp3gk4"]
 
-[ext_resource type="Texture2D" uid="uid://bngfh7nslvij1" path="res://addons/sprout_lands_tiles/assets/Tilesets/Grass.png" id="1_m6ilp"]
-[ext_resource type="Texture2D" uid="uid://d1c7tdeg77os" path="res://addons/sprout_lands_tiles/assets/Tilesets/Tilled Dirt.png" id="2_7j6vt"]
-[ext_resource type="Texture2D" uid="uid://2bsfgjphvmox" path="res://addons/sprout_lands_tiles/assets/Tilesets/Fences.png" id="3_bh6pi"]
-[ext_resource type="Texture2D" uid="uid://m0j0oacx0vki" path="res://addons/sprout_lands_tiles/assets/Objects/Basic Plants.png" id="4_hlgmt"]
-[ext_resource type="Texture2D" uid="uid://cn7oug0kk5tkd" path="res://addons/sprout_lands_tiles/assets/Objects/Basic Grass Biom things 1.png" id="5_u3e8f"]
-[ext_resource type="Texture2D" uid="uid://cvemyer4jq6we" path="res://addons/sprout_lands_tiles/assets/Objects/Paths.png" id="6_tpecx"]
-[ext_resource type="Texture2D" uid="uid://b3846xma3tu8x" path="res://addons/sprout_lands_tiles/assets/Objects/Basic Furniture.png" id="7_fiob3"]
-[ext_resource type="Texture2D" uid="uid://bif0n5c12bwrh" path="res://addons/sprout_lands_tiles/assets/Tilesets/Water.png" id="8_xtf7w"]
-[ext_resource type="Texture2D" uid="uid://bkmnb6mm8tpyu" path="res://addons/sprout_lands_tiles/assets/Tilesets/Wooden House.png" id="9_ubiqk"]
+[ext_resource type="Texture2D" uid="uid://bngfh7nslvij1" path="res://addons/sprout_lands_tilemap/assets/Tilesets/Grass.png" id="1_m6ilp"]
+[ext_resource type="Texture2D" uid="uid://d1c7tdeg77os" path="res://addons/sprout_lands_tilemap/assets/Tilesets/Tilled Dirt.png" id="2_7j6vt"]
+[ext_resource type="Texture2D" uid="uid://2bsfgjphvmox" path="res://addons/sprout_lands_tilemap/assets/Tilesets/Fences.png" id="3_bh6pi"]
+[ext_resource type="Texture2D" uid="uid://m0j0oacx0vki" path="res://addons/sprout_lands_tilemap/assets/Objects/Basic Plants.png" id="4_hlgmt"]
+[ext_resource type="Texture2D" uid="uid://cn7oug0kk5tkd" path="res://addons/sprout_lands_tilemap/assets/Objects/Basic Grass Biom things 1.png" id="5_u3e8f"]
+[ext_resource type="Texture2D" uid="uid://cvemyer4jq6we" path="res://addons/sprout_lands_tilemap/assets/Objects/Paths.png" id="6_tpecx"]
+[ext_resource type="Texture2D" uid="uid://b3846xma3tu8x" path="res://addons/sprout_lands_tilemap/assets/Objects/Basic Furniture.png" id="7_fiob3"]
+[ext_resource type="Texture2D" uid="uid://bif0n5c12bwrh" path="res://addons/sprout_lands_tilemap/assets/Tilesets/Water.png" id="8_xtf7w"]
+[ext_resource type="Texture2D" uid="uid://bkmnb6mm8tpyu" path="res://addons/sprout_lands_tilemap/assets/Tilesets/Wooden House.png" id="9_ubiqk"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_2v0he"]
 texture = ExtResource("1_m6ilp")

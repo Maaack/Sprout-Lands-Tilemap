@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://2bsfgjphvmox"
-path="res://.godot/imported/Fences.png-cd7078fbf69676f29791b4eecd6c4840.ctex"
+uid="uid://bif0n5c12bwrh"
+path="res://.godot/imported/Water.png-e8ab9e641ff7e64c5be0268db5b717fb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/sprout_lands_tiles/assets/Tilesets/Fences.png"
-dest_files=["res://.godot/imported/Fences.png-cd7078fbf69676f29791b4eecd6c4840.ctex"]
+source_file="res://addons/sprout_lands_tilemap/assets/Tilesets/Water.png"
+dest_files=["res://.godot/imported/Water.png-e8ab9e641ff7e64c5be0268db5b717fb.ctex"]
 
 [params]
 
