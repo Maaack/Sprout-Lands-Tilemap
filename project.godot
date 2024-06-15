@@ -15,7 +15,7 @@ config/features=PackedStringArray("4.2", "GL Compatibility")
 
 [editor_plugins]
 
-enabled=PackedStringArray("res://addons/sprout_lands_tiles/plugin.cfg")
+enabled=PackedStringArray("res://addons/sprout_lands_tilemap/plugin.cfg")
 
 [rendering]
 
