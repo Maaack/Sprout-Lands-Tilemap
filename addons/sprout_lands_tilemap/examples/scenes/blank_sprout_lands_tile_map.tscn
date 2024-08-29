@@ -1,0 +1,5 @@
+[gd_scene load_steps=2 format=3 uid="uid://cmvnsoetr3ume"]
+
+[ext_resource type="PackedScene" uid="uid://csv8m50kp3gk4" path="res://addons/sprout_lands_tilemap/base/scenes/sprout_lands_tile_map.tscn" id="1_rfumu"]
+
+[node name="BlankSproutLandsTileMap" instance=ExtResource("1_rfumu")]
