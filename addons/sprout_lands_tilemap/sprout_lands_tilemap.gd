@@ -124,6 +124,7 @@ func _delayed_saving(target_path : String):
 	var timer: Timer = Timer.new()
 	var callable := func():
 		timer.stop()
+		EditorInterface.get_resource_filesystem().scan()
 		EditorInterface.save_all_scenes()
 		timer.queue_free()
 	timer.timeout.connect(callable)
