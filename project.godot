@@ -22,7 +22,7 @@ enabled=PackedStringArray("res://addons/sprout_lands_tilemap/plugin.cfg")
 renderer/rendering_method="gl_compatibility"
 renderer/rendering_method.mobile="gl_compatibility"
 
-[sprout_land_tilemap]
+[sprout_lands_tilemap]
 
 disable_plugin_dialogues=true
 copy_path="res://"
