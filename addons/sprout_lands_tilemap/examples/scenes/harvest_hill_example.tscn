@@ -1,6 +1,6 @@
 [gd_scene load_steps=21 format=4 uid="uid://cyguxpvjhsj7b"]
 
-[ext_resource type="PackedScene" uid="uid://csv8m50kp3gk4" path="res://addons/sprout_lands_tilemap/base/scenes/SproutLandsTileMap.tscn" id="1_cnsgf"]
+[ext_resource type="PackedScene" uid="uid://csv8m50kp3gk4" path="res://addons/sprout_lands_tilemap/base/scenes/sprout_lands_tile_map.tscn" id="1_cnsgf"]
 [ext_resource type="Texture2D" uid="uid://bngfh7nslvij1" path="res://addons/sprout_lands_tilemap/assets/Tilesets/Grass.png" id="2_x3i8y"]
 [ext_resource type="Texture2D" uid="uid://d1c7tdeg77os" path="res://addons/sprout_lands_tilemap/assets/Tilesets/Tilled Dirt.png" id="3_oem0d"]
 [ext_resource type="Texture2D" uid="uid://2bsfgjphvmox" path="res://addons/sprout_lands_tilemap/assets/Tilesets/Fences.png" id="4_sjl7k"]
