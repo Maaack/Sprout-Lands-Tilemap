@@ -3,6 +3,3 @@
 [ext_resource type="PackedScene" uid="uid://csv8m50kp3gk4" path="res://addons/sprout_lands_tilemap/base/scenes/sprout_lands_tile_map.tscn" id="1_rfumu"]
 
 [node name="BlankSproutLandsTileMap" instance=ExtResource("1_rfumu")]
-
-[node name="Water" parent="." index="0"]
-tile_map_data = PackedByteArray(0, 0, 1, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 7, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 7, 0, 0, 0, 0, 0, 0, 0)
