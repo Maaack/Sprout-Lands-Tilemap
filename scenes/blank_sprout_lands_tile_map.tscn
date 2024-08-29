@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://dg2th1rey5a0w"]
+
+[ext_resource type="PackedScene" path="res://addons/sprout_lands_tilemap/base/scenes/sprout_lands_tile_map.tscn" id="1_mfms8"]
+
+[node name="BlankSproutLandsTileMap" instance=ExtResource("1_mfms8")]
+
+[node name="Water" parent="." index="0"]
+tile_map_data = PackedByteArray(0, 0, 1, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 7, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 7, 0, 0, 0, 0, 0, 0, 0)
