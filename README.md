@@ -18,7 +18,7 @@ Start building worlds with the free [Sprout Lands Asset Pack](https://cupnooble.
 
 1.  Download the latest release version from [GitHub](https://github.com/Maaack/Sprout-Lands-Tilemap/releases/latest).  
 2.  Extract the contents of the archive.
-3.  Move the `addons/sprout_land_tiles` folder into your project's `addons/` folder.  
+3.  Move the `addons/sprout_land_tilemap` folder into your project's `addons/` folder.  
 4.  Open/Reload the project.  
 5.  Enable the plugin from the Project Settings > Plugins tab.  
     If it's enabled for the first time,
@@ -52,5 +52,5 @@ You may noticed that only one kind of tile can occupy any given space, while som
 The names are merely for convenience and do not enforce any rules themselves.
 
 ## Links
-[Attribution](/addons/sprout_land_tiles/ATTRIBUTION.md)  
-[Code License](/addons/sprout_land_tiles/LICENSE.txt)  
+[Attribution](/addons/sprout_land_tilemap/ATTRIBUTION.md)  
+[Code License](/addons/sprout_land_tilemap/LICENSE.txt)  

@@ -2,7 +2,7 @@
 extends EditorPlugin
 
 const PLUGIN_NAME = "Sprout Lands TileMap"
-const PROJECT_SETTINGS_PATH = "sprout_land_tiles/"
+const PROJECT_SETTINGS_PATH = "sprout_land_tilemap/"
 
 const EXAMPLES_RELATIVE_PATH = "examples/"
 const UID_PREG_MATCH = r'uid="uid:\/\/[0-9a-z]+" '
